@@ -1,2 +1,3 @@
-# issues
-Bug tracker and feature requests for Noto 2
+# Noto 2
+
+Please file any bugs or feature requests [here](https://github.com/noto-app/org/issues).
