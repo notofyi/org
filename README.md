@@ -12,7 +12,7 @@ Please file any bugs or feature requests [here](https://github.com/noto-app/org/
 
 ## Release checklist
 - Increment version / build as needed for all targets in Xcode
-- Commit and tag release on GitHub
 - Archive and upload to the App Store
 - Write changelog notes and update this document
+- Commit and tag release on GitHub. Copy changelog notes.
 - Copy changelog notes to ```What's New``` in the App Store
