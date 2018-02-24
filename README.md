@@ -3,6 +3,9 @@
 Please file any bugs or feature requests [here](https://github.com/noto-app/org/issues). You can also discuss on the forums [here](https://groups.google.com/forum/#!forum/noto-app).
 
 ## Changelog
+- v2.0.4 (2018-02-23)
+  - Improve Settings page so it doesn't look completely n00b
+  - Improve Archive / Outbox / Draft pages to give more information
 - v2.0.3 (2018-02-18)
   - Dial down haptic from heavy to medium
   - Fix enable notifications bug
