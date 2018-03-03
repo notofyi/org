@@ -3,6 +3,8 @@
 Please file any bugs or feature requests [here](https://github.com/noto-app/org/issues). You can also discuss on the forums [here](https://groups.google.com/forum/#!forum/noto-app).
 
 ## Changelog
+- v2.0.7 (2018-03-02)
+  - Fix bug where deleting attachment crashes app
 - v2.0.6 (2018-03-02)
   - Fix bug where send via Noto fails to send image attachments
 - v2.0.5 (2018-02-28)
