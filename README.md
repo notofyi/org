@@ -3,6 +3,11 @@
 You can view our roadmap [here](http://roadmap.noto.fyi). Please file any bugs or feature requests [here](http://issues.noto.fyi). You can also discuss on the forum [here](http://forum.noto.fyi).
 
 ## Changelog
+- v2.0.8 (2018-03-04)
+  - Improve UI regarding subject vs body in emails
+  - Rewrite data backend for app extensions and Apple Watch
+  - Remove badge icon per Apple Review
+  - Add hot-loading JS code
 - v2.0.7 (2018-03-02)
   - Fix bug where deleting attachment crashes app
 - v2.0.6 (2018-03-02)
@@ -28,7 +33,6 @@ You can view our roadmap [here](http://roadmap.noto.fyi). Please file any bugs o
 
 ## Release checklist
 - Increment version / build as needed for all targets in Xcode
-- Write update notification string in ```whats_new```
 - Archive and upload to the App Store
 - Write changelog notes and update this document
 - Commit and tag release on GitHub. Copy changelog notes.
