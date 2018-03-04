@@ -1,6 +1,6 @@
 # Noto 2
 
-Please file any bugs or feature requests [here](https://github.com/noto-app/org/issues). You can also discuss on the forums [here](https://groups.google.com/forum/#!forum/noto-app).
+You can view our roadmap [here](http://roadmap.noto.fyi). Please file any bugs or feature requests [here](http://issues.noto.fyi). You can also discuss on the forum [here](http://forum.noto.fyi).
 
 ## Changelog
 - v2.0.7 (2018-03-02)
