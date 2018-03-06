@@ -3,6 +3,9 @@
 You can view our roadmap [here](http://roadmap.noto.fyi). Please file any bugs or feature requests [here](http://issues.noto.fyi). You can also discuss on the forum [here](http://forum.noto.fyi).
 
 ## Changelog
+- v2.0.9 (2018-03-05)
+  - Enable experimental feature for four more email addresses
+  - Enable hot code swap for JS
 - v2.0.8 (2018-03-04)
   - Improve UI regarding subject vs body in emails
   - Rewrite data backend for app extensions and Apple Watch
