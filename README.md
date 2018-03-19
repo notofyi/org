@@ -3,6 +3,8 @@
 You can view our roadmap [here](http://roadmap.noto.fyi). Please file any bugs or feature requests [here](http://issues.noto.fyi). You can also discuss on the forum [here](http://forum.noto.fyi).
 
 ## Changelog
+- v2.1.0 (2018-03-14)
+  - Add share and action extensions
 - v2.0.9 (2018-03-05)
   - Enable experimental feature for four more email addresses
   - Enable hot code swap for JS
